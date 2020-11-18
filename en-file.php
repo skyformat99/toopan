@@ -218,7 +218,7 @@ if($filetype==1){
 <h3 class="panel-title"><i class="fa fa-exclamation-circle"></i> prompt</h3>
 </div>
 <div class="panel-body">
-<?php echo $conf['gg_file']?>
+<?php echo $conf['en_gg_file']?>
 </div>
 </div>
 <div class="panel panel-default hidden-xs">
