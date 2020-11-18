@@ -9,7 +9,8 @@ INSERT INTO `pre_config` VALUES ('cache', '');
 INSERT INTO `pre_config` VALUES ('admin_user', 'admin');
 INSERT INTO `pre_config` VALUES ('admin_pwd', '123456');
 INSERT INTO `pre_config` VALUES ('blackip', '');
-INSERT INTO `pre_config` VALUES ('title', 'Cloud tray');
+INSERT INTO `pre_config` VALUES ('title', '云端托盘');
+INSERT INTO `pre_config` VALUES ('en_title', 'Cloud tray');
 INSERT INTO `pre_config` VALUES ('keywords', 'Free network disk, free map bed, temporary network disk, file warehouse, file outside link, file curiosity, free outside link, visitors upload');
 INSERT INTO `pre_config` VALUES ('description', 'A Shared repository of files');
 INSERT INTO `pre_config` VALUES ('storage', 'local');
@@ -27,7 +28,8 @@ INSERT INTO `pre_config` VALUES ('green_check_porn', '0');
 INSERT INTO `pre_config` VALUES ('green_check_terrorism', '0');
 INSERT INTO `pre_config` VALUES ('green_label_porn', 'sexy,porn');
 INSERT INTO `pre_config` VALUES ('green_label_terrorism', 'bloody,explosion,outfit,logo,weapon,politics');
-INSERT INTO `pre_config` VALUES ('gg_file', 'All content in the repository is uploaded and Shared by users themselves.This website strictly complies with relevant national laws and regulations, and respects copyright, copyright and other rights of third parties.If the current document violates your rights, please report it to us in time and we will deal with it promptly.');
+INSERT INTO `pre_config` VALUES ('en_gg_file', 'All content in the repository is uploaded and Shared by users themselves.This website strictly complies with relevant national laws and regulations, and respects copyright, copyright and other rights of third parties.If the current document violates your rights, please report it to us in time and we will deal with it promptly.');
+INSERT INTO `pre_config` VALUES ('gg_file', '这个仓库的所有内容都是由用户自己上传和分享的。本网站严格遵守国家有关法律法规，尊重著作权、版权等第三方权利。如果目前的文件侵犯了您的权利，请及时报告给我们，我们会及时处理。');
 
 DROP TABLE IF EXISTS `pre_file`;
 CREATE TABLE `pre_file` (
