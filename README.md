@@ -5,7 +5,7 @@
  
 ## 概要
 
-因个人爱好，兴趣使然。无奈技术小白，能力有限。
+因兴趣使然而修改的如下网盘。无奈技术小白，能力有限，期望大佬们将它进化。
 #
 本程序在源程序[彩虹外链](http://blog.cccyun.cn/post-406.html)的基础上进行修改而来
  * 增加全局英文界面，包括安装和后台、以及数据库写入；
@@ -14,6 +14,6 @@
  * 增加用户协议导航按钮、增加后台管理导航按钮、管理中心返回前台按钮；
  ## 示例图
 ![图示1](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/2.png)
-* ![图示2](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/3.png)
-* ![图示3](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/4.png)
-* ![图示4](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/5.png)
+![图示2](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/3.png)
+![图示3](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/4.png)
+![图示4](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/5.png)
