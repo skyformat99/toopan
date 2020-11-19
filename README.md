@@ -1,7 +1,7 @@
  ## 说明
 
  * 免费网盘, 免费图床, 临时网盘, 文件仓库, 文件外链, 文件猎奇, 免费外链, 游客上传
- * 实例demo:https://www.toopan.cn/
+ * 实例Demo: https://www.toopan.cn/
  
 ## 概要
 
@@ -13,7 +13,7 @@
  * 更改了UI色彩，调整了部分UI布局；
  * 增加用户协议导航按钮，增加后台管理导航按钮；
  ## 示例图
-* [图示1]https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/2.png
+* [图示1](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/2.png)
 * [图示2](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/3.png)
 * [图示3](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/4.png)
 * [图示4](https://mediy.oss-cn-beijing.aliyuncs.com/toopan%20github%E5%9B%BE%E7%89%87/5.png)
